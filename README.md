@@ -5,7 +5,7 @@
 - <h4>Data Structures and Algorithms Practice (AlgoExpert)</h4>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> 🛜 Network Labs (with pictures!):</h2>
+<h2>🛜 Network Labs (with pictures!):</h2>
 
 - <h4>In-Class Labs</h4>
   - []
@@ -13,7 +13,7 @@
 - <h4>At-Home Labs</h4>
   -
   
-<h2>Cheats-sheat and Notes</h2>
+<h2>☑️ Cheats-sheat and Notes</h2>
   - 
 
 <h2>📺 YouTube Videos</h2>
