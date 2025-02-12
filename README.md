@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/edwardungere">Aspiring Network Engineer</a>, <a href="https://www.linkedin.com/in/edward-ngere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/edwardungere">Aspiring Network Engineer</a>, <a href="https://www.linkedin.com/in/edward-ngere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@EdwardNgere">YouTuber</a></h1>
 
 <h2>👨‍💻 Network Projects:</h2>
 
@@ -14,7 +14,7 @@
   -
   
 <h2>Cheats-sheat and Notes</h2>
-
+  - 
 
 <h2>📺 YouTube Videos</h2>
 
