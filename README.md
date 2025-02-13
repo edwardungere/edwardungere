@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Network Projects:</h2>
 
-- <h4>Data Structures and Algorithms Practice (AlgoExpert)</h4>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <h4>Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</h4>
+  - [Praciting Powershell](https://github.com/edwardngere)
 
 <h2>🛜 Network Labs (with pictures!):</h2>
 
