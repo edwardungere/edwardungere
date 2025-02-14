@@ -1,14 +1,14 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/edwardungere">Aspiring Network Engineer</a>, <a href="https://www.linkedin.com/in/edward-ngere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@EdwardNgere">YouTuber</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/edwardungere">Aspiring Network Engineer</a>, <a href="https://www.linkedin.com/in/edward-ngere/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Network Projects:</h2>
 
 - <h4>Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</h4>
-  - [Praciting Powershell](https://github.com/edwardngere)
+  - [Practicing Powershell](https://github.com/edwardngere)
 
 <h2>🛜 Network Labs (with pictures!):</h2>
 
 - <h4>In-Class Labs</h4>
-  - []
+  - 
     
 - <h4>At-Home Labs</h4>
   -
