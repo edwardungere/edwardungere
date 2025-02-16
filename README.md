@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/edwardungere">Aspiring Network Engineer</a>, <a href="https://www.linkedin.com/in/edward-ngere/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Edward!<a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Network Projects:</h2>
 
