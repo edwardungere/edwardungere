@@ -4,14 +4,6 @@
 
 - <h4>Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</h4>
   - [Practicing Powershell](https://github.com/edwardngere)
-
-<h2>🛜 Network Labs (with pictures!):</h2>
-
-- <h4>In-Class Labs</h4>
-  - 
-    
-- <h4>At-Home Labs</h4>
-  -
   
 <h2>☑️ Cheats-sheat and Notes</h2>
   - 
