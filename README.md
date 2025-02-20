@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward!<a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Edward!<a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity, DevOps, and MLOps Professional</a></h1>
 
 <h2>👨‍💻 Network Projects:</h2>
 
@@ -6,11 +6,6 @@
   - [Practicing Powershell](https://github.com/edwardngere)
   
 <h2>☑️ Cheats-sheat and Notes</h2>
-
-- <h4> A </h4>
-
-
-<h2>📺 YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
