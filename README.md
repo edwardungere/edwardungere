@@ -1,11 +1,12 @@
 <h1>Hi, I'm Edward!<a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Network Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
-- <h4>Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</h4>
-  - [Practicing Powershell](https://github.com/edwardngere)
+- <h4> </h4>
   
 <h2>☑️ Cheats-sheat and Notes</h2>
+
+- <h4> </h4> 
 
 
 <h2> 🤳 Connect with me:</h2>
