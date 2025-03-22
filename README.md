@@ -4,7 +4,7 @@
 
 - <h4> </h4>
   
-<h2>☑️ Cheats-sheat and Notes</h2>
+<h2>☑️ Cheat-Sheets and Notes</h2>
 
 - <h4> </h4> 
 
