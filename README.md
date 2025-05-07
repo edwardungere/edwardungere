@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
+<h1><a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects</h2>
 
