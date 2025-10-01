@@ -1,6 +1,9 @@
-<h1><a href="https://www.linkedin.com/in/edward-ngere/"> Aspiring Cybersecurity Professional</a></h1>
+<h1>Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Projects</h2>
+<p>
+  <a href="edwardngere.com">Website</a>
+</p>
 
 
 
