@@ -4,6 +4,6 @@
 
 
 
-<a href="https://www.linkedin.com/in/edwardungere/"><img src="https://staging.svgrepo.com/show/110195/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/edwardungere/"><img src="https://staging.svgrepo.com/show/110195/linkedin.svg" height="50" width="50"></img></a>
 
 
