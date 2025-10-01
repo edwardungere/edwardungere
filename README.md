@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects</h2>
 <p>
-  <a href="edwardngere.com">Website</a>
+  <a href="https://www.edwardngere.com">Website</a>
 </p>
 
 
