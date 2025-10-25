@@ -10,12 +10,11 @@
 - Linux (Ubuntu, Kali)
 
 ## Projects I'm working on
-- Personal Website
-- Soc Lab I
+- Personal website
+- Splunk + Zeek home lab
 
 ## Hobbies
 - Hanging out with friends
-- Learning about cyber (seriously)
+- Learning about cyber
 - Swimming
 - Jogging
-- Tame Impala
