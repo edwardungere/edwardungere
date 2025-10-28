@@ -4,7 +4,7 @@
 ## Ask me about
 - Cisco IOS 
 - Splunk
-- Cybersecurity frameworks
+- NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
 - Wazuh
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
