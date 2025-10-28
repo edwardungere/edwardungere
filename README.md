@@ -9,9 +9,10 @@
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
 
-## Projects I'm working on
+## Things I'm working on
 - Personal website
 - Splunk + Zeek home lab
+- Blog
 
 ## Hobbies
 - Hanging out with friends
