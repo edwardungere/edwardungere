@@ -5,13 +5,13 @@
 - Cisco IOS 
 - Splunk
 - NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
-- Wazuh
+- Fundamentals (routing protocols, switching, subnetting, dhcp, port security, etc.)
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
 
 ## Things I'm working on
 - Personal website
-- Splunk + Zeek home lab
+- 3-Tier network lab (in progress)
 - Blog
 
 ## Hobbies
