@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ed</h>
-<h3 align="center">IT security specialist from maryland</h3>
+<h3 align="center">Cyberecurity specialist from maryland</h3>
 
 ## Ask me about
-- Cisco IOS 
-- Splunk
+- Splunk, pfSense, Crowdstrike
 - NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
-- Fundamentals (routing protocols, switching, subnetting, dhcp, port security, etc.)
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
+- Networking (routing protocols, switching, subnetting, dhcp, port security, etc.)
+- Other things not mentioned
 
 ## Things I'm working on
-- Personal website
-- 3-Tier network lab (in progress)
-- Blog
+- ELK SIEM Lab (in-progress)
+- Vuln Research Blog (in-progress)
 
 ## Hobbies
-- Hanging out with friends
-- Learning about cyber
-- Swimming
-- Jogging
+- Working on blog
+- Outdoor swimming
+- Playing local basketball
+- Morning jogs
