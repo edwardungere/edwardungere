@@ -2,7 +2,7 @@
 <h3 align="center">Cyberecurity specialist from maryland</h3>
 
 ## Ask me about
-- Splunk, pfSense, Crowdstrike
+- S
 - NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
@@ -10,8 +10,8 @@
 - Other things not mentioned
 
 ## Things I'm working on
-- ELK SIEM Lab (in-progress)
-- Vuln Research Blog (in-progress)
+- Cloud IR (Ingestion-Response) Lab (in-progress)
+- Research Blog (in-progress)
 
 ## Hobbies
 - Working on blog
