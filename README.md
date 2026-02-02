@@ -10,6 +10,6 @@
 
 ## Things I'm working on
 - Cloud IR (Ingestion-Response) Lab (in-progress)
-- Research Blog (in-progress)
+- Research Blog 
 
 
