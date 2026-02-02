@@ -2,7 +2,6 @@
 <h3 align="center">Cyberecurity specialist from maryland</h3>
 
 ## Ask me about
-- S
 - NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
 - Scripting (Python, Bash)
 - Linux (Ubuntu, Kali)
@@ -13,8 +12,4 @@
 - Cloud IR (Ingestion-Response) Lab (in-progress)
 - Research Blog (in-progress)
 
-## Hobbies
-- Working on blog
-- Outdoor swimming
-- Playing local basketball
-- Morning jogs
+
