@@ -9,7 +9,7 @@
 - Other things not mentioned
 
 ## Things I'm working on
-- Cloud IR (Ingestion-Response) Lab (in-progress)
+- Automated Ingestion Response Lab (AIR) Lab (in-progress)
 - Research Blog 
 
 
