@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ed</h>
-<h3 align="center">Cyberecurity specialist from maryland</h3>
+<h3 align="center">Cybersecurity specialist from maryland</h3>
 
 ## Ask me about
 - NIST RMF, ISO 27005, NIST CSF, NIST 800 series, etc.
