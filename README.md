@@ -9,7 +9,6 @@
 - Other things not mentioned
 
 ## Things I'm working on
-- Automated Ingestion Response Lab (AIR) Lab (in-progress)
-- Research Blog 
+- Automated Ingestion Response Lab (AIR) Lab
 
 
